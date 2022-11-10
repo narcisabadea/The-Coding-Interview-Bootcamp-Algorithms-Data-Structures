@@ -6,7 +6,7 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 
 - [String reversal](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/reversestring)
 - [Palindromes](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/palindrome)
-- Integer reversal
+- [Integer reversal](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/reverseint)
 - MaxChars
 - The Classic FizzBuzz!
 - Array Chunking
