@@ -12,11 +12,7 @@ function maxChar(str) {
   let maxChar = "";
 
   for (let char of str) {
-    if (obj[char]) {
-      obj[char]++;
-    } else {
-      obj[char] = 1;
-    }
+    obj[char] ? obj[char]++ : (obj[char] = 1);
   }
 
   for (let char in obj) {
