@@ -16,7 +16,6 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 - [Two sided steps - pyramids](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/pyramid)
 - [Find the vowels](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/vowels)
 - [Enter the Matrix Spiral](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/matrix)
-- [Runtime complexity]
 - [Runtime complexity in practice - Fibonacci](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/fib)
 - [The Queue]
 - [Underwater Queue Weaving]
