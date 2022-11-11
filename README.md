@@ -12,10 +12,10 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 - [Array Chunking](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/chunk)
 - [Anagrams](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/anagrams)
 - [Sentence capitalization](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/capitalize)
-- [Printing steps]
-- [Two sided steps - pyramids]
-- [Find the vowels]
-- [Enter the Matrix Spiral]
+- [Printing steps](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/steps)
+- [Two sided steps - pyramids](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/pyramid)
+- [Find the vowels](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/vowels)
+- [Enter the Matrix Spiral](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/matrix)
 - [Runtime complexity]
 - [Runtime complexity in practice - Fibonacci](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/fib)
 - [The Queue]
