@@ -7,31 +7,31 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 - [String reversal](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/reversestring)
 - [Palindromes](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/palindrome)
 - [Integer reversal](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/reverseint)
-- MaxChars
-- The Classic FizzBuzz!
-- Array Chunking
-- Anagrams
-- Sentence capitalization
-- Printing steps
-- Two sided steps - pyramids
-- Find the vowels
-- Enter the Matrix Spiral
-- Runtime complexity
-- Runtime complexity in practice - Fibonacci
-- The Queue
-- Underwater Queue Weaving
-- Stacks
-- Two become one
-- Linked lists
-- Find the midpoint
-- Circular lists
-- Step back from the tail
-- Buling a tree
-- Tree with with level width
-- Binary search trees
-- Validating a binary search tree
-- JS Events
-- Building Twitter - a design question
-- Bubble sort
-- Sort by selection
-- Merge sort
+- [MaxChars](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/maxchar)
+- [The Classic FizzBuzz!](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/fizzbuzz)
+- [Array Chunking](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/chunk)
+- [Anagrams](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/anagrams)
+- [Sentence capitalization](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/capitalize)
+- [Printing steps]
+- [Two sided steps - pyramids]
+- [Find the vowels]
+- [Enter the Matrix Spiral]
+- [Runtime complexity]
+- [Runtime complexity in practice - Fibonacci](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/fib)
+- [The Queue]
+- [Underwater Queue Weaving]
+- [Stacks]
+- [Two become one]
+- [Linked lists]
+- [Find the midpoint]
+- [Circular lists]
+- [Step back from the tail]
+- [Buling a tree]
+- [Tree with with level width]
+- [Binary search trees]
+- [Validating a binary search tree]
+- [JS Events]
+- [Building Twitter - a design question]
+- [Bubble sort]
+- [Sort by selection]
+- [Merge sort]
