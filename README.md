@@ -20,7 +20,7 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 - [The Queue](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/queue)
 - [Underwater Queue Weaving](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/weave)
 - [Stacks](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/stack)
-- [Two become one]
+- [Two become one](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/qfroms)
 - [Linked lists]
 - [Find the midpoint]
 - [Circular lists]
