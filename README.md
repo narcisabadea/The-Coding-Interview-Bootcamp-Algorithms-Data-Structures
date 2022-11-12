@@ -19,7 +19,7 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 - [Runtime complexity in practice - Fibonacci](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/fib)
 - [The Queue](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/queue)
 - [Underwater Queue Weaving](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/weave)
-- [Stacks]
+- [Stacks](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/stack)
 - [Two become one]
 - [Linked lists]
 - [Find the midpoint]
