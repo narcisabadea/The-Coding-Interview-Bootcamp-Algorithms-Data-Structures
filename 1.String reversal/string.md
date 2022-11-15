@@ -25,7 +25,7 @@ function reverse(str) {
 - return the new string
 
 ```js
-function reverse2(str) {
+function reverse(str) {
   let reversed = "";
   for (let char of str) {
     reversed = char + reversed;
@@ -37,7 +37,7 @@ function reverse2(str) {
 # Solution 3: using the reduce method
 
 ```js
-function reverse3(str) {
+function reverse(str) {
   return str.split("").reduce((rev, char) => char + rev, "");
 }
 ```

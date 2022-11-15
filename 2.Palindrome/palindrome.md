@@ -23,7 +23,7 @@ function palindrome(str) {
 ## Solution 2
 
 ```js
-function palindrome2(str) {
+function palindrome(str) {
   return str.split("").every((char, i) => char === str[str.length - i - 1]);
 }
 ```
