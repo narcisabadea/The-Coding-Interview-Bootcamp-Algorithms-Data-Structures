@@ -3,6 +3,7 @@
 Given an integer, return an integer that is the reverse ordering of numbers.
 
 --- Examples
+<br>
 reverseInt(15) === 51
 <br>
 reverseInt(981) === 189
