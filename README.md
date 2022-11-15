@@ -5,7 +5,7 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 ## Exercises
 
 - [String reversal](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/1.String%20reversal)
-- [Palindromes](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/palindrome)
+- [Palindromes](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/2.Palindrome)
 - [Integer reversal](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/reverseint)
 - [MaxChars](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/maxchar)
 - [The Classic FizzBuzz!](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/fizzbuzz)
