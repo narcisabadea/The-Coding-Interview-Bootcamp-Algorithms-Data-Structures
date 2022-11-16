@@ -1,5 +1,7 @@
 # Validate a BTS
 
+## Exercise:
+
 Given a node, validate the binary search tree,
 ensuring that every node's left hand child is
 less than the parent node's value, and that
