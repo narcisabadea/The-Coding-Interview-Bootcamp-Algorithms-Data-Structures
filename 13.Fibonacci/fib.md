@@ -40,6 +40,20 @@ function fib2(n) {
 
 ## Solution 3: improving performance by using memoization for the recursive method (cache the values already calculated)
 
+### What is Memoization?
+
+Memoization is an optimization technique that makes applications more efficient and hence faster. It does this by storing computation results in cache, and retrieving that same information from the cache the next time it's needed instead of computing it again.
+
+In simpler words, it consists of storing in cache the output of a function, and making the function check if each required computation is in the cache before computing it.
+
+A cache is simply a temporary data store that holds data so that future requests for that data can be served faster.
+
+### How Does Memoization Work?
+
+The concept of memoization in JavaScript relies on two concepts:
+- Closures: The combination of a function and the lexical environment within which that function was declared. 
+- Higher Order Functions: Functions that operate on other functions, either by taking them as arguments or by returning them.
+
 ```js
 function memoize(fn) {
   const cache = {};
