@@ -1,5 +1,7 @@
 # Printing steps
 
+## Exercise:
+
 Write a function that accepts a positive number N.
 The function should console log a step shape
 with N levels using the # character. Make sure the
