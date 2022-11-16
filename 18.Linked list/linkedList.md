@@ -6,6 +6,8 @@ Each element (commonly called nodes) contains two items: the data stored and a l
 
 The entry point to a linked list is called the head. The head is a reference to the first node in the linked list. The last node on the list points to null. If a list is empty, the head is a null reference.
 
+<img width="550" alt="Screenshot 2022-11-16 at 21 20 42" src="https://user-images.githubusercontent.com/30498113/202274218-64a0950b-1f88-4324-b4a7-bb9b2513311c.png">
+
 In JavaScript, a linked list looks like this:
 
 ```js
