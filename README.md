@@ -11,7 +11,7 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 - [The Classic FizzBuzz!](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/5.FizzBuzz)
 - [Array Chunking](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/6.Array%20chunking)
 - [Anagrams](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/7.Anagrams)
-- [Sentence capitalization](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/capitalize)
+- [Sentence capitalization](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/8.Sentence%20capitalization)
 - [Printing steps](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/steps)
 - [Two sided steps - pyramids](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/pyramid)
 - [Find the vowels](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/vowels)
