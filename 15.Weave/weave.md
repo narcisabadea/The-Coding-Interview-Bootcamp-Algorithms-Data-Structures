@@ -1,5 +1,7 @@
 # Weave
 
+## Exercise:
+
 1.  Complete the task in weave/queue.js
 2.  Implement the 'weave' function. Weave
     receives two queues as arguments and combines the
