@@ -1,5 +1,7 @@
 # Sorting methods
 
+## Exercise:
+
 Implement bubbleSort, selectionSort, and mergeSort
 
 ## Solution
