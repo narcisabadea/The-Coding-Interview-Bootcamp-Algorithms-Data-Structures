@@ -1,5 +1,7 @@
 # Tree
 
+## Exercise:
+
 1. Create a node class. The constructor
    should accept an argument that gets assigned
    to the data property and initialize an
