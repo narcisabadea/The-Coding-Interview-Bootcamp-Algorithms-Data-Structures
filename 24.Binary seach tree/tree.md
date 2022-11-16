@@ -1,4 +1,13 @@
-# Tree with level width
+# Binary search tree
+
+BST is a tree-like data structure with a single root at the very top. They are a great way to store numeric values as their ordered nature allows for fast search and lookups.
+
+Compared to a normal tree, BST has the following properties:
+- every left child has a smaller value than its parent
+- every right child has a larger value than its parent
+- every node can contain from 0 to 2 children.
+
+## Exercise:
 
 1. Implement the Node class to create
    a binary search tree. The constructor
