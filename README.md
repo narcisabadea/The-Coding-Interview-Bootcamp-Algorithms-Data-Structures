@@ -18,20 +18,17 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
 - [Enter the Matrix Spiral](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/12.Matrix)
 - [Runtime complexity in practice - Fibonacci](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/13.Fibonacci)
 - Data structures:
-  1.  [The Queue](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/14.Queue)
-  2.  [Queue Weaving](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/15.Weave)
-  3.  [Stacks](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/16.Stack)
-  4.  [Queue from stacks](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/17.Queue%20from%20stacks)
-  5.  [Linked lists](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/18.Linked%20list)
-  6.  [Find the midpoint of a linked list](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/19.Linked%20list%20midpoint)
-  7.  [Circular lists](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/20.Circular%20linked%20list)
-  8.  [Step back from the tail](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/21.Circular%20linked%20list%20n%20from%20last)
-- [Bulding a tree]
-- [Tree with with level width]
-- [Binary search trees]
-- [Validating a binary search tree]
-- [JS Events]
-- [Building Twitter - a design question]
-- [Bubble sort]
-- [Sort by selection]
-- [Merge sort]
+  - [The Queue](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/14.Queue)
+  - [Queue Weaving](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/15.Weave)
+  - [Stacks](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/16.Stack)
+  - [Queue from stacks](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/17.Queue%20from%20stacks)
+  - [Linked lists](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/18.Linked%20list)
+  - [Find the midpoint of a linked list](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/19.Linked%20list%20midpoint)
+  - [Circular lists](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/20.Circular%20linked%20list)
+  - [Step back from the tail](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/21.Circular%20linked%20list%20n%20from%20last)
+  - [Bulding a tree](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/22.Tree)
+  - [Tree with with level width](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/23.Tree%20with%20level%20width)
+  - [Binary search trees](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/24.Binary%20search%20tree)
+  - [Validating a binary search tree](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/25.Validate%20a%20BST)
+- [JS Events](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/26.JS%20events)
+- [Sorting methods: bubble sort, sort by selection, merge sort](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/27.Sorting%20methods)
