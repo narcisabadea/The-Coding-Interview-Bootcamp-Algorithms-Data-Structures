@@ -1,5 +1,7 @@
 # Queue from stacks
 
+## Exercise:
+
 Implement a Queue datastructure using two stacks.
 _Do not_ create an array inside of the 'Queue' class.
 Queue should implement the methods 'add', 'remove', and 'peek'.
