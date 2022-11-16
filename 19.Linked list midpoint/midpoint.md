@@ -1,5 +1,7 @@
 # Finding the midpoint in a linked list
 
+## Exercise:
+
 Return the 'middle' node of a linked list.
 If the list has an even number of elements, return
 the node at the end of the first half of the list.
