@@ -32,4 +32,4 @@ JavaScript Algorithms and Data Structures exercises from the Udemy course [The C
   - [Validating a binary search tree](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/25.Validate%20a%20BST)
 - [JS Events](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/26.JS%20events)
 - [Sorting methods: bubble sort, sort by selection, merge sort](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/27.Sorting%20methods)
-- [Runtime complexity](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/28.Runtime%20complexity/complexity.md)
+- [Graph](https://github.com/narcisabadea/The-Coding-Interview-Bootcamp-Algorithms-Data-Structures/blob/main/29.Graph/graph.md)
